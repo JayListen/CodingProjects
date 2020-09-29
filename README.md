@@ -1,3 +1,3 @@
 # CodingProjects
 
-Just a bunch of smaller coding projects, I am currently learning C# for Unity.
+Just a bunch of small loops exercises.
